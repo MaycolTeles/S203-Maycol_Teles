@@ -1,0 +1,14 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./Aula 5 - Design Patterns",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+        "Aula 5 - Design Patterns"
+    ]
+}

@@ -1,0 +1,3 @@
+""""""
+
+from .artigo import Artigo
